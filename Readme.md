@@ -23,7 +23,7 @@ This project implements a cloud-based auto-scaling system for a Flask web applic
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/assignemt_vcc.git
+git clone https://github.com/a19hu/assignemt_vcc.git
 cd assignemt_vcc
 ```
 
